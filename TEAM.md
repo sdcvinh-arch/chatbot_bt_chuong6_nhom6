@@ -9,41 +9,24 @@
 
 | STT | Họ và Tên | MSSV | Vai Trò | Email |
 |-----|-----------|------|---------|-------|
-| 1   | [Tên thành viên 1] | [MSSV] | Nhóm trưởng | [email] |
-| 2   | [Tên thành viên 2] | [MSSV] | Thành viên | [email] |
-| 3   | [Tên thành viên 3] | [MSSV] | Thành viên | [email] |
-| 4   | [Tên thành viên 4] | [MSSV] | Thành viên | [email] |
-| 5   | [Tên thành viên 5] | [MSSV] | Thành viên | [email] |
+| 1   | [Phạm Phú Vinh] | [M2525040] | Nhóm 6 | [email] |
+| 2   | [Võ Thị Tuyết Hương] | [M2525023] | Nhóm 6 | [email] |
 
 *Lưu ý: Cập nhật thông tin thành viên thực tế vào bảng trên*
 
 ## 📋 Phân Công Công Việc
 
-### 1. [Tên thành viên 1] - Nhóm trưởng
+### 1. [Phạm Phú Vinh]
 - Quản lý dự án
 - Thiết kế kiến trúc hệ thống
 - Review code
 - Viết tài liệu chính
 
-### 2. [Tên thành viên 2]
+### 2. [Võ Thị Tuyết Hương]
 - Phát triển module PDF Processor
 - Xử lý và trích xuất text từ PDF
 - Unit testing
 
-### 3. [Tên thành viên 3]
-- Phát triển GPT Analyzer
-- Tích hợp Anthropic Claude API
-- Xử lý prompt engineering
-
-### 4. [Tên thành viên 4]
-- Phát triển BERT Analyzer
-- Tích hợp BERT model
-- Keyword extraction & summarization
-
-### 5. [Tên thành viên 5]
-- Thiết kế giao diện Streamlit
-- Export functionality
-- UI/UX design
 
 ## 🎯 Mục Tiêu Dự Án
 
@@ -58,11 +41,7 @@ Xây dựng ứng dụng phân tích bài báo khoa học tự động sử dụ
 |-----------|----------|---------|---------|
 | 1 | Nghiên cứu và phân tích yêu cầu | ✅ 100% | Hoàn thành |
 | 2 | Thiết kế kiến trúc hệ thống | ✅ 100% | Hoàn thành |
-| 3 | Phát triển Backend | ✅ 100% | Hoàn thành |
-| 4 | Phát triển Frontend | ✅ 100% | Hoàn thành |
-| 5 | Testing & Debug | ✅ 100% | Hoàn thành |
-| 6 | Viết tài liệu | ✅ 100% | Hoàn thành |
-| 7 | Triển khai | 🔄 0% | Đang chuẩn bị |
+
 
 ## 🛠️ Công Nghệ Sử Dụng
 
